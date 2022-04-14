@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قرعة الحج - السودان</string>
+    <string name="nav_header_subtitle">تطبيق قرعة الحج - السودان</string>
+    <string name="corporation_name">المجلس الأعلى للحج والعمرة</string>
+    <string name="home">الرئيسية</string>
+    <string name="rate">تقييم التطبيق</string>
+    <string name="more_app">المزيد من التطبيقات</string>
+    <string name="about_developer">عن المطور</string>
+    <string name="about_council">عن المجلس</string>
+    <string name="share">مشاركة</string>
+    <string name="national_number">الرقم الوطني أو رقم المتابعة</string>
+    <string name="search">بحث</string>
+    <string name="about_council_desc">ظلت تجربة أعمال الحج والعمرة بالسودان تحقق تطوراً مضطرداً ومستمراً خلال العقدين الماضيين ويمكن القول أنها حققت قفزة نوعية وكبيرة بفضل اهتمام الدولة بتعظيم الشعائر ورعاية أعمالها ووضع الأسس والضوابط الواضحة لإدارة شؤون الحج والعمرة .</string>
+    <string name="confirm_exit">أضغط مرة أخرى للخروج</string>
+
+</resources>
